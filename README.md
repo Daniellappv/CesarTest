@@ -17,9 +17,7 @@ The Korean language lies in third place with a distant 6%. A curious thing is th
 Cyprus, Sweden, and Romania, all of them European countries, **are also English-speaking channels**.
 
 <FlatUiTable
-  data={{
-    url: 'data.csv'
-  }}
+  data='data.csv'
  />
 
 Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic, Bhojpuri, and Portuguese have 2% each.

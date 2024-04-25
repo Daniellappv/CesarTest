@@ -18,12 +18,6 @@ Cyprus, Sweden, and Romania, all of them European countries, **are also English-
 
 Russian, Spanish, and Urdu languages share 12% of the Big 50 quota, while Arabic, Bhojpuri, and Portuguese have 2% each.
 
-<FlatUiTable
-  data={{
-    url: 'data.csv'
-  }}
- />
-
 There are only two Spanish-speaking channels in the 50 with the most subscribers: the Argentine children's channel El Reino Infantil (position 26th, 6, 63.6M), and the Chilean JuegaGerman, formerly known as HolaSoyGerman (position 49th, 49.7M). The only Portuguese-spoken channel comes from Brazil: Canal Kondzilla, with 67 million subscribers.
 
 Russian-speaking Entertainment channels A4 and Get Movies have a media of 51,65 million subscribers. Both occupy the 42nd and 47th positions, respectively.
